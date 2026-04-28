@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1>Hello, I'm Will</h1>
 
-<!--
-**William64907/William64907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Circuits: </h2>
 
-Here are some ideas to get you started:
+  - <b> ECE 5020</b>
+  
+<h2> System Control: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - <b> ECE 5551</b>
+    
+  - <b> ECE 6750</b>
+  
+<h2> Semiconductor Device/Fabrication: </h2>
+  
+  - <b> ECE 5031</b>
+    
+  - <b> ECE 5530</b>
+
+  - <b> ECE 5537</b>
+  
+<h2> Embbeded System:</h2>
+
+  - <b> ECE 5466</b>
+
+  - <b> ECE 5362</b>
+
+<h2> AI:</h2>
+
+- <b> ECE 5307</b>
+
+<h2> Others:</h2>
+
+- <b> -
